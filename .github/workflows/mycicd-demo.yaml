@@ -10,6 +10,9 @@ jobs:
       steps:
         - uses: actions/checkout@v4
         - name: Say Hello
-          run: echo " Say Hello To the world of CI/CD"
+          run: |
+            echo "Hello there, welcome to my CICD demo"
+            echo "I am putting my hands to try out workflows in CICD"
+            echo "This training is from Hagital Consults"
           
         
