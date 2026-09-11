@@ -14,5 +14,6 @@ jobs:
             echo "Hello there, welcome to my CICD demo"
             echo "I am putting my hands to try out workflows in CICD"
             echo "This training is from Hagital Consults"
+            echo "I am learning to create workflows in CICD"
           
         
